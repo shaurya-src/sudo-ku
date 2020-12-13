@@ -4,7 +4,7 @@
 
 # Overview
 
-<img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="left">
+<img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudoku-overview.gif" align="left">
 
 ## What is the `Project`?
 
