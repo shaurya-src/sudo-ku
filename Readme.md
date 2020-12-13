@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shaurya-src/sudoku-solver/blob/main/Assets/Snaps/Sudoku.png" width="500">
+  <img src="https://github.com/shaurya-src/sudoku-solver/blob/main/Assets/Snaps/SUDO%20KU.png" width="500">
 </p>
 
 # Overview
