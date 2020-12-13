@@ -5,7 +5,7 @@
 # Overview
 
 <!---img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudoku-overview.gif" align="left"-->
-<img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudogif.gif" align="left">
+<img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sodogif.gif" align="left">
 
 ## What is `sudo KU`?
 
