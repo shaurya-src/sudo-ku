@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
+  <https://github.com/shaurya-src/sudoku-solver/blob/main/Assets/Snaps/Sudoku.png" width="500">
 </p>
 
 # Overview
