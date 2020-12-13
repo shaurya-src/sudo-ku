@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shaurya-src/sudoku-solver/blob/main/Assets/Snaps/SUDO%20KU.png">
+  <img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/SUDO%20KU.png" height="200">
 </p>
 
 # Overview
@@ -26,9 +26,9 @@ if __name__ == '__main__':
 
 # Features
 
-![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/sudoku-solver?logo=GitHub&style=flat-square)
-![License](https://img.shields.io/github/license/shaurya-src/sudoku-solver?logo=GitLab&style=flat-square)
-![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/sudoku-solver?logo=Git&style=flat-square)
+![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/sudo-ku?logo=GitHub&style=flat-square)
+![License](https://img.shields.io/github/license/shaurya-src/sudo-ku?logo=GitLab&style=flat-square)
+![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/sudo-ku?logo=Git&style=flat-square)
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
 
