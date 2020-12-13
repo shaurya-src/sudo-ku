@@ -6,9 +6,9 @@
 
 <img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudoku-overview.gif" align="left">
 
-## What is the `Project`?
+## What is `sudo KU`?
 
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
+`sudo KU` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
 amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
 Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
 hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
@@ -68,7 +68,7 @@ In addition, you can also customize the following properties according to the ne
 
 1. ***Lorem Ipsum***
 
-`Project` is designed to be easy to use. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+`sudo KU` is designed to be easy to use. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 2. ***Lorem Ipsum***
 
@@ -87,8 +87,8 @@ func(input())
 
 ## <a name="requirements"> Requirements
 
-- Xcode 10.2.1
-- Swift 5.0
+- Python 3.x
+- Lorem ipsum
 
 ## <a name="installation"> Installation
 
@@ -120,7 +120,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## <a name="license"> License
 
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) file for more info.
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/sudo-ku/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
 <!---
