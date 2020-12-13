@@ -4,7 +4,8 @@
 
 # Overview
 
-<img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudoku-overview.gif" align="left">
+<!---img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudoku-overview.gif" align="left"-->
+<img src="https://github.com/shaurya-src/sudo-ku/blob/main/Assets/Snaps/sudogif.gif" align="left">
 
 ## What is `sudo KU`?
 
@@ -120,7 +121,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## <a name="license"> License
 
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/sudo-ku/blob/main/LICENSE) file for more info.
+*sudo KU* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/sudo-ku/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
 <!---
